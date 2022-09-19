@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 public class Base {
 	public Properties prop;
@@ -21,14 +22,21 @@ public class Base {
 		FileInputStream fs = new FileInputStream(
 				"/Users/efat/eclipse-workspace/Framework8/src/main/java/resources/data.properties");
 		prop.load(fs);
+		
+		
+		String browserName =System.getProperty("browser")!=null ? System.getProperty("browser") : prop.getProperty("browser");
+		
+		//String browserName = prop.getProperty("browser");
 
-		String browserName = prop.getProperty("browser");
-
-		if (browserName.equals("chrome")) {
-
+		if (browserName.contains("chrome")) {
+			ChromeOptions options = new ChromeOptions();
 			System.setProperty("webdriver.chrome.driver", "/Users/efat/Desktop/chromedriver");
-			driver = new ChromeDriver();
-		} else if (browserName.equals("firefox")) {
+			if(browserName.contains("headless")) {
+				options.addArguments("headless");
+			}
+			driver = new ChromeDriver(options);
+		} 
+		else if (browserName.equals("firefox")) {
 
 		}
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));

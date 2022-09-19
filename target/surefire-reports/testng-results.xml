@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="37429" started-at="2022-09-18T13:38:38 EDT" finished-at="2022-09-18T13:39:16 EDT">
+  <suite name="Suite" duration-ms="34799" started-at="2022-09-18T20:24:18 EDT" finished-at="2022-09-18T20:24:52 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="21062" started-at="2022-09-18T13:38:38 EDT" finished-at="2022-09-18T13:38:59 EDT">
+    <test name="Test" duration-ms="20940" started-at="2022-09-18T20:24:18 EDT" finished-at="2022-09-18T20:24:38 EDT">
       <class name="test1.Login">
-        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:0, instance:test1.Login@7975d1d8]" name="login" duration-ms="12316" started-at="2022-09-18T13:38:38 EDT" data-provider="getData" finished-at="2022-09-18T13:38:51 EDT">
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:0, instance:test1.Login@7975d1d8]" name="login" duration-ms="12337" started-at="2022-09-18T20:24:18 EDT" data-provider="getData" finished-at="2022-09-18T20:24:30 EDT">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:0, instance:test1.Login@7975d1d8]" name="login" duration-ms="8686" started-at="2022-09-18T13:38:51 EDT" data-provider="getData" finished-at="2022-09-18T13:38:59 EDT">
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:0, instance:test1.Login@7975d1d8]" name="login" duration-ms="8544" started-at="2022-09-18T20:24:30 EDT" data-provider="getData" finished-at="2022-09-18T20:24:38 EDT">
           <params>
             <param index="0">
               <value>
@@ -41,13 +41,13 @@
         </test-method> <!-- login -->
       </class> <!-- test1.Login -->
     </test> <!-- Test -->
-    <test name="Test1" duration-ms="15862" started-at="2022-09-18T13:39:00 EDT" finished-at="2022-09-18T13:39:16 EDT">
+    <test name="Test1" duration-ms="13363" started-at="2022-09-18T20:24:39 EDT" finished-at="2022-09-18T20:24:52 EDT">
       <class name="test1.LoginHeading">
-        <test-method status="PASS" signature="intitializeBrowser()[pri:0, instance:test1.LoginHeading@35a3d49f]" name="intitializeBrowser" is-config="true" duration-ms="4824" started-at="2022-09-18T13:39:00 EDT" finished-at="2022-09-18T13:39:05 EDT">
+        <test-method status="PASS" signature="intitializeBrowser()[pri:0, instance:test1.LoginHeading@35a3d49f]" name="intitializeBrowser" is-config="true" duration-ms="3946" started-at="2022-09-18T20:24:39 EDT" finished-at="2022-09-18T20:24:43 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitializeBrowser -->
-        <test-method status="FAIL" signature="headingTest()[pri:0, instance:test1.LoginHeading@35a3d49f]" name="headingTest" duration-ms="10620" started-at="2022-09-18T13:39:05 EDT" finished-at="2022-09-18T13:39:15 EDT">
+        <test-method status="FAIL" signature="headingTest()[pri:0, instance:test1.LoginHeading@35a3d49f]" name="headingTest" duration-ms="9108" started-at="2022-09-18T20:24:43 EDT" finished-at="2022-09-18T20:24:52 EDT">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected:<Paul Collings> but was:<Pau Collings>]]>
@@ -95,7 +95,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- headingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test1.LoginHeading@35a3d49f]" name="tearDown" is-config="true" duration-ms="111" started-at="2022-09-18T13:39:16 EDT" finished-at="2022-09-18T13:39:16 EDT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test1.LoginHeading@35a3d49f]" name="tearDown" is-config="true" duration-ms="66" started-at="2022-09-18T20:24:52 EDT" finished-at="2022-09-18T20:24:52 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

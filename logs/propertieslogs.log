@@ -151,3 +151,66 @@
 [INFO ] 2022-09-18 13:39:05.250 [main] LoginHeading - Initialize Driver
 [INFO ] 2022-09-18 13:39:09.005 [main] LoginHeading - Test Run
 [INFO ] 2022-09-18 13:39:16.290 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 15:24:08.508 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 15:24:12.125 [main] Login - Run Test Case
+[INFO ] 2022-09-18 15:24:12.283 [main] Login - Driver Close
+[INFO ] 2022-09-18 15:24:16.101 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 15:24:19.680 [main] Login - Run Test Case
+[INFO ] 2022-09-18 15:24:19.806 [main] Login - Driver Close
+[INFO ] 2022-09-18 15:24:23.690 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 15:24:27.162 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 15:24:33.659 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 19:27:00.370 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:27:03.913 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:27:04.062 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:27:07.471 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:27:11.102 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:27:11.227 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:27:15.712 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 19:27:19.270 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 19:27:25.702 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 19:41:32.948 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:41:36.429 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:41:36.564 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:41:39.971 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:41:43.626 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:41:43.751 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:41:47.597 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 19:41:50.983 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 19:41:57.753 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 19:50:09.538 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:50:13.143 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:50:13.276 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:50:17.479 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:50:21.085 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:50:21.214 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:50:25.191 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 19:50:28.756 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 19:50:35.705 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 19:53:52.530 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:53:56.451 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:53:56.592 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:54:03.932 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 19:54:07.817 [main] Login - Run Test Case
+[INFO ] 2022-09-18 19:54:07.945 [main] Login - Driver Close
+[INFO ] 2022-09-18 19:54:14.842 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 19:54:18.554 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 19:54:25.071 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 20:23:15.514 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 20:23:19.356 [main] Login - Run Test Case
+[INFO ] 2022-09-18 20:23:19.432 [main] Login - Driver Close
+[INFO ] 2022-09-18 20:23:23.757 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 20:23:27.468 [main] Login - Run Test Case
+[INFO ] 2022-09-18 20:23:27.534 [main] Login - Driver Close
+[INFO ] 2022-09-18 20:23:32.379 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 20:23:36.141 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 20:23:41.869 [main] LoginHeading - Driver Close
+[INFO ] 2022-09-18 20:24:26.540 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 20:24:30.328 [main] Login - Run Test Case
+[INFO ] 2022-09-18 20:24:30.404 [main] Login - Driver Close
+[INFO ] 2022-09-18 20:24:35.021 [main] Login - Initialize Browser
+[INFO ] 2022-09-18 20:24:38.901 [main] Login - Run Test Case
+[INFO ] 2022-09-18 20:24:38.962 [main] Login - Driver Close
+[INFO ] 2022-09-18 20:24:43.419 [main] LoginHeading - Initialize Driver
+[INFO ] 2022-09-18 20:24:47.211 [main] LoginHeading - Test Run
+[INFO ] 2022-09-18 20:24:52.837 [main] LoginHeading - Driver Close

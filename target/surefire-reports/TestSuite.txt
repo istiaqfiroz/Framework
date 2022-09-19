@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 38.758 s <<< FAILURE! - in TestSuite
-test1.LoginHeading.headingTest  Time elapsed: 10.923 s  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 36.18 s <<< FAILURE! - in TestSuite
+test1.LoginHeading.headingTest  Time elapsed: 9.339 s  <<< FAILURE!
 java.lang.AssertionError: expected:<Paul Collings> but was:<Pau Collings>
 	at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:115)
 	at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:125)
